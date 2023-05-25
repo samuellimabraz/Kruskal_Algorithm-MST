@@ -1,2 +1,2 @@
 # Kruskal_Algorithm-MST
-Implementation of Kruskal's algorithm to find the MST (Minimal Spanning Tree) in a random graph, and creating a video of its path
+Kruskal’s algorithm to find the MST (Minimum Spanning Tree) in any graph and creation of a video with its respective path
